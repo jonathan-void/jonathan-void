@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I Am Currently Working On A Personal Website<br>🫂 Looking to Collaborate On ML Projects<br>🤝 Look For Help With My Personal Website<br>🌱 I Am Currently Learning Data Science<br>🙊 Ask Me About Python, Games, Anime Projects...<br>⚡ I Started To Code When I Was 9, Started Python<br>        When I Was 10
+🔭 I Am Currently Working On A Personal Website<br>🫂 Looking to Collaborate On ML Projects<br>🤝 Look For Help With My Personal Website<br>🌱 I Am Currently Learning Data Science<br>🙊 Ask Me About Python, Games, Anime Projects...<br>⚡ I Started To Code When I Was 9, Started Python When I Was 10
 
 
 # 💻 Tech Stack:

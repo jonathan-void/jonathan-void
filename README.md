@@ -16,6 +16,9 @@
 • [2048](https://github.com/jonathan-void/Snake-Game) <br>
 • [ꜱᴘᴀᴄᴇ ꜱʜᴏᴏᴛᴇʀ](https://github.com/jonathan-void/Snake-Game) <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📧+Contact+Me)](https://git.io/typing-svg) <br>
+[Mail](https://mail.google.com/mail/?view=cm&fs=1&to=jonathan.void@outlook.com&su=SUBJECT&body=BODY)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🖊️+Quotes)](https://git.io/typing-svg) <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

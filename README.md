@@ -1,4 +1,4 @@
-
+<img align="top" alt="Coding" width="1200" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmN2EyYjY4ZjFjNTVlZGI4NmFiNjQ5ODg5ZjgwZGRkZDk2NmFhZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/b3JwNKekHaLvYeGAYJ/giphy.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Hey,+I'm+Jonathan!+👋)](https://git.io/typing-svg) <br>
 

@@ -1,7 +1,10 @@
+<img align="left" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif">
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Hey,+I'm+Jonathan!+👋)](https://git.io/typing-svg) <br>
 • ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴀ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ<br>• ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ᴍʟ ᴘʀᴏᴊᴇᴄᴛꜱ<br>• ʟᴏᴏᴋ ꜰᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ ᴍʏ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ<br>• ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ<br>• ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴘʏᴛʜᴏɴ, ɢᴀᴍᴇꜱ, ᴀɴɪᴍᴇ ᴘʀᴏᴊᴇᴄᴛꜱ...<br>• ɪ ꜱᴛᴀʀᴛᴇᴅ ᴛᴏ ᴄᴏᴅᴇ ᴡʜᴇɴ ɪ ᴡᴀꜱ 9, ꜱᴛᴀʀᴛᴇᴅ ᴘʏᴛʜᴏɴ ᴡʜᴇɴ ɪ ᴡᴀꜱ 10
 
-<p align="left"> <a href="https://twitter.com/void_jonathan" target="blank"><img src="https://img.shields.io/twitter/follow/void_jonathan?logo=twitter&style=for-the-badge" alt="void_jonathan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/void_jonathan" target="blank"><img src="https://img.shields.io/twitter/follow/void_jonathan?logo=twitter&style=for-the-badge" alt="void_jonathan" /></a> </p> <br>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻+Tech+Skills!)](https://git.io/typing-svg) <br>

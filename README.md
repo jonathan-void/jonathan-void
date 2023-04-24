@@ -22,6 +22,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📧+Contact+Me)](https://git.io/typing-svg) <br>
 [Mail](https://mail.google.com/mail/?view=cm&fs=1&to=jonathan.void@outlook.com&su=SUBJECT&body=BODY)
+<a href="https://discord.gg/WkvHjSgGK9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WkvHjSgGK9" height="30" width="40" /></a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🖊️+Quotes)](https://git.io/typing-svg) <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

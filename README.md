@@ -1,6 +1,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Hey,+I'm+Jonathan!+👋)](https://git.io/typing-svg) <br>
+
 • ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴀ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ<br>• ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ᴍʟ ᴘʀᴏᴊᴇᴄᴛꜱ<br>• ʟᴏᴏᴋ ꜰᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ ᴍʏ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ<br>• ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ<br>• ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴘʏᴛʜᴏɴ, ɢᴀᴍᴇꜱ, ᴀɴɪᴍᴇ ᴘʀᴏᴊᴇᴄᴛꜱ...<br>• ɪ ꜱᴛᴀʀᴛᴇᴅ ᴛᴏ ᴄᴏᴅᴇ ᴡʜᴇɴ ɪ ᴡᴀꜱ 9, ꜱᴛᴀʀᴛᴇᴅ ᴘʏᴛʜᴏɴ ᴡʜᴇɴ ɪ ᴡᴀꜱ 10
 
 <p align="left"> <a href="https://twitter.com/void_jonathan" target="blank"><img src="https://img.shields.io/twitter/follow/void_jonathan?logo=twitter&style=for-the-badge" alt="void_jonathan" /></a> </p> <br>

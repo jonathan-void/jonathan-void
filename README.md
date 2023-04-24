@@ -1,4 +1,3 @@
-<img align="left" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Hey,+I'm+Jonathan!+👋)](https://git.io/typing-svg) <br>

@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="1200" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ4ZjFjM2M3ZDY3YmI0NjBiMGIzOWI2Y2UyOWFjNDEyODk1NTIxNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4AhzvtRByaqqVxuqH4/giphy.gif">
+<img align="top" alt="Coding" width="1000" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ4ZjFjM2M3ZDY3YmI0NjBiMGIzOWI2Y2UyOWFjNDEyODk1NTIxNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4AhzvtRByaqqVxuqH4/giphy.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Hey,+I'm+Jonathan!+👋)](https://git.io/typing-svg) <br>
 
